@@ -11,7 +11,19 @@
 | Styling | CSS variables + CSS files | design tokens stay visible and easy to inspect |
 | Data first | local TypeScript/JSON data | prove the interface before adding services |
 
-Vite provides React and React + TypeScript starter templates, a fast development server, and a production build. genui{"citation":{"refs":["turn0search0","turn0search1"]}}
+Vite provides React and React + TypeScript starter templates, a fast development server, and a production build. See the official [Vite Getting Started guide](https://vite.dev/guide/).
+
+## Install once per computer
+
+Students need:
+
+1. A current **Node.js LTS** installation; it includes `npm`.
+2. **Git** for cloning, branches and pull requests.
+3. A code editor and a modern browser.
+
+Check Node is available with `node --version` and `npm --version`. In a cloud development environment, these may already be installed.
+
+Do **not** install React, TypeScript or Vite globally. Create the project once, then run `npm install` inside its folder. That command reads `package.json` and downloads exactly the libraries the project declares.
 
 ## Add complexity only when needed
 
