@@ -18,10 +18,10 @@ Do not begin screen implementation until `DESIGN.md` is marked complete by the t
 
 Use the relevant repository skill in `.codex/skills/`:
 
-- `@prototype-architect` — turn an approved brief and design into a small build plan; do not code.
-- `@clarify-brief` — expose missing product or design decisions before planning.
-- `@prototype-debug` — diagnose terminal, browser, build, layout or interaction problems.
-- `@grill-my-prototype` — challenge assumptions and scope before more work is built.
+- `$prototype-architect` — turn an approved brief and design into a small build plan; do not code.
+- `$clarify-brief` — expose missing product or design decisions before planning.
+- `$prototype-debug` — diagnose terminal, browser, build, layout or interaction problems.
+- `$grill-my-prototype` — challenge assumptions and scope before more work is built.
 
 If the environment does not automatically recognise repository skills, read the matching `SKILL.md` file before working.
 
