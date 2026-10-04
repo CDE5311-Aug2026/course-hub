@@ -12,11 +12,12 @@ Use **React + TypeScript + Vite**, with npm and plain CSS/CSS variables. This gi
 
 ```text
 team-prototype/
+├── .codex/skills/       # reusable Codex workflow instructions
 ├── src/
-│   ├── components/     # reusable UI
-│   ├── pages/          # one file per screen/route
-│   ├── data/           # temporary local data
-│   └── styles/         # tokens and global styles
+│   ├── components/      # reusable UI
+│   ├── pages/           # one file per screen/route
+│   ├── data/            # temporary local data
+│   └── styles/          # tokens and global styles
 ├── public/              # images and static files
 ├── references/          # key screen exports and design notes
 ├── DESIGN.md
