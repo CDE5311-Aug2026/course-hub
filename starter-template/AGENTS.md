@@ -14,6 +14,10 @@ Do not begin screen implementation until `DESIGN.md` is marked complete by the t
 4. State what could break and how the result will be checked.
 5. Run the app after each change and report the result.
 
+## Debugging skill
+
+For a terminal, browser, build, layout or interaction problem, use `.codex/skills/prototype-debug/SKILL.md`. If the environment recognises repository skills, request `@prototype-debug`; otherwise read that file before attempting a repair.
+
 ## Boundaries
 
 - Follow the agreed design system and technology choices.
